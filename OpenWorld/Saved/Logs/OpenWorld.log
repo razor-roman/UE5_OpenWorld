@@ -790,3 +790,23 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.16-11.55.19:627][329]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
 [2023.02.16-12.04.14:333][971]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
 [2023.02.16-12.04.14:334][971]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.02.16-12.15.37:358][ 52]LogHttp: Warning: 000008214820B900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB24DCC9A-4232-912A-D574-6DB214C52A50%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=5797ee4146a3f72d897f1ca95aad1a76%7Ce2ed626a2b7e4dfe84a55971e6d52c29%7C7b899890-c3c6-4740-8a04-09c141ae8b8f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.16-12.15.37:359][ 52]LogHttp: Warning: 000008214820B900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.02.16-12.15.37:359][ 52]LogHttp: Warning: 000008214820B900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x820ed0d0000 [can pipeline])
+[2023.02.16-12.15.37:360][ 52]LogHttp: Warning: 000008214820B900: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2023.02.16-12.15.37:360][ 52]LogHttp: Warning: 000008214820B900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.45.37.25) port 443 (#0))
+[2023.02.16-12.15.37:360][ 52]LogHttp: Warning: 000008214820B900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.02.16-12.15.37:360][ 52]LogHttp: Warning: 000008214820B900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.02.16-12.15.37:360][ 52]LogHttp: Warning: 000008214820B900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.02.16-12.15.37:360][ 52]LogHttp: Warning: 000008214820B900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.02.16-12.15.37:361][ 52]LogHttp: Warning: 000008214820B900: libcurl info message cache 7 (Closing connection 0)
+[2023.02.16-12.15.37:361][ 52]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB24DCC9A-4232-912A-D574-6DB214C52A50%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=5797ee4146a3f72d897f1ca95aad1a76%7Ce2ed626a2b7e4dfe84a55971e6d52c29%7C7b899890-c3c6-4740-8a04-09c141ae8b8f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.16-12.16.14:149][162]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.02.16-12.16.14:150][162]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.02.16-12.21.30:787][280]LogDerivedDataCache: C:/Users/Roman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.802 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.16-12.33.31:858][677]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.02.16-12.33.31:858][677]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.02.16-12.42.59:783][511]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.02.16-12.42.59:783][511]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.02.16-13.21.29:518][491]LogDerivedDataCache: C:/Users/Roman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.483 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.16-14.21.30:135][278]LogDerivedDataCache: C:/Users/Roman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.071 and deleted 0 file(s) with total size 0 MiB.
