@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OpenWorld",
+			"Path": "G:\\Git\\UE5_OpenWorld\\UE5_OpenWorld\\OpenWorld\\Source\\OpenWorld.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OpenWorldEditor",
+			"Path": "G:\\Git\\UE5_OpenWorld\\UE5_OpenWorld\\OpenWorld\\Source\\OpenWorldEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

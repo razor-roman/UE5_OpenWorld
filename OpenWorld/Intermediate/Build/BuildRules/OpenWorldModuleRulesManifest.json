@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\Git\\UE5_OpenWorld\\UE5_OpenWorld\\OpenWorld\\Source\\OpenWorld\\OpenWorld.Build.cs",
+		"G:\\Git\\UE5_OpenWorld\\UE5_OpenWorld\\OpenWorld\\Source\\OpenWorld.Target.cs",
+		"G:\\Git\\UE5_OpenWorld\\UE5_OpenWorld\\OpenWorld\\Source\\OpenWorldEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

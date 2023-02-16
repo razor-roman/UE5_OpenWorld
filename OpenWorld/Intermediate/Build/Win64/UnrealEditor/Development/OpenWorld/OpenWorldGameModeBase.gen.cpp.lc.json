@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\git\\ue5_openworld\\ue5_openworld\\openworld\\intermediate\\build\\win64\\unrealeditor\\inc\\openworld\\openworldgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\git\\ue5_openworld\\ue5_openworld\\openworld\\intermediate\\build\\win64\\openworldeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\git\\ue5_openworld\\ue5_openworld\\openworld\\intermediate\\build\\win64\\unrealeditor\\development\\openworld\\definitions.openworld.h",
+            "g:\\git\\ue5_openworld\\ue5_openworld\\openworld\\source\\openworld\\openworldgamemodebase.h",
+            "g:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "g:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "g:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "g:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "g:\\git\\ue5_openworld\\ue5_openworld\\openworld\\intermediate\\build\\win64\\unrealeditor\\inc\\openworld\\openworldgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

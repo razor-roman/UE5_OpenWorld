@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\git\\ue5_openworld\\ue5_openworld\\openworld\\source\\openworld\\openworld.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\git\\ue5_openworld\\ue5_openworld\\openworld\\intermediate\\build\\win64\\openworldeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\git\\ue5_openworld\\ue5_openworld\\openworld\\intermediate\\build\\win64\\unrealeditor\\development\\openworld\\definitions.openworld.h",
+            "g:\\git\\ue5_openworld\\ue5_openworld\\openworld\\source\\openworld\\openworld.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
