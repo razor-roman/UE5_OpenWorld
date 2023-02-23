@@ -9,7 +9,6 @@ void AMyPlayerController::SetupInputComponent()
 	InputComponent->BindAction("Interact",IE_Pressed,this,&AMyPlayerController::Interact);
 	InputComponent->BindAxis("MoveForward",this,&AMyPlayerController::MoveForward);
 	InputComponent->BindAxis("MoveForward",this,&AMyPlayerController::MoveRight);
-	
 }
 
 void AMyPlayerController::MoveForward(float Value)
